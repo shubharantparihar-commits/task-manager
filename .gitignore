@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.venv1/
+.ruff_cache/
+tasks.json
